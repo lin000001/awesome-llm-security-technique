@@ -1,2 +1,2 @@
-# awesome-llm-security-technique
+# Awesome-llm-security-technique
 security&amp;idea
